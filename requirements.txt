@@ -90,6 +90,7 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 dill @ file:///C:/b/abs_f79eg27d2q/croot/dill_1715094735295/work
 distributed @ file:///C:/b/abs_52ju83vjqr/croot/distributed_1725523030746/work
 distro @ file:///C:/b/abs_71xr36ua5r/croot/distro_1714488282676/work
+dj-database-url==3.1.2
 Django==6.0.4
 django-filter==25.2
 djangorestframework==3.17.1
@@ -110,6 +111,7 @@ gensim @ file:///C:/b/abs_efsh9stgvi/croot/gensim_1725376635600/work
 gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/b/abs_2bkslnqz4i/croot/gitpython_1720455044865/work
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
+gunicorn==25.3.0
 h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
 h5py @ file:///C:/b/abs_c4ha_1xv14/croot/h5py_1715094776210/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
@@ -235,6 +237,7 @@ prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
 protobuf==4.25.3
 psutil @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/psutil_1699482842340/work
+psycopg2-binary==2.9.12
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py-cpuinfo @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/py-cpuinfo_1699495567147/work
@@ -269,6 +272,7 @@ PyQtWebEngine==5.15.6
 PySocks @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pysocks_1699473336188/work
 pytest @ file:///C:/b/abs_een_3z747j/croot/pytest_1717793253670/work
 python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-decouple==3.8
 python-dotenv @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-dotenv_1699475097728/work
 python-json-logger @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-json-logger_1699543626759/work
 python-lsp-black @ file:///C:/b/abs_5dhen_5vga/croot/python-lsp-black_1709232962589/work
